@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JsonVolleyRequest.iml" filepath="$PROJECT_DIR$/JsonVolleyRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonArrayReq.iml" filepath="$PROJECT_DIR$/JsonArrayReq.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
